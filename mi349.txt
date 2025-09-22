@@ -1,0 +1,2 @@
+Hello
+This is a plain text file for my MI 349 file browser lab.
